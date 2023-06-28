@@ -116,6 +116,25 @@ button {
   border-radius: 5px;
 }
 
+.work-screenshot { 
+  overflow: hidden;
+}
+
+.work-screenshot a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  transition-duration: .5s;
+} 
+
+.work-screenshot a:hover {
+  background-color: #29315e;
+  color: #F1FAEE;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0px 19px 10px 0 rgba(0,0,0,0.19);
+}
+
 
 
 
