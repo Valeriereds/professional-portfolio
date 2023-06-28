@@ -95,6 +95,26 @@ button {
 
 
 /* first project should be larger */
+.work-screenshot img {
+  width: 200px 200px;
+  height: 400px;
+  border: 4px inset purple;
+  border-radius: 5px;
+}
+
+.random-bologna img {
+  width: 300px;
+  height: 400px;
+  border: 4px 2px inset purple;
+  border-radius: 5px;
+}
+
+.more-random img {
+  width: 150px 150px;
+  height: 400px;
+  border: 4px 2px inset purple;
+  border-radius: 5px;
+}
 
 
 
