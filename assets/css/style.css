@@ -135,6 +135,29 @@ button {
   box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0px 19px 10px 0 rgba(0,0,0,0.19);
 }
 
+h2 {
+  text-decoration-line: underline;
+  text-decoration-color: darkorchid;
+}
+
+h3 {
+  text-align: center;
+  color: mediumslateblue;
+  text-decoration-line: underline;
+  text-decoration-color: darkorchid;
+}
+
+p {
+  display: inline;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  justify-content: right;
+  color: peru;
+  width: 75%;
+}
+
 
 
 
