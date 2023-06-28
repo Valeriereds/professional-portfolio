@@ -158,6 +158,24 @@ p {
   width: 75%;
 }
 
+#contact-me {
+  border: 2px solid darkorchid;
+  border-radius: 20px;
+  padding: 8px;
+  margin-top: 50px;
+  background: rgba(66, 0, 128, 0.3);
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+h4 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
 
 
 
