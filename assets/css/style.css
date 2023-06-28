@@ -17,6 +17,21 @@ body {
 }
 
 
+header h1 {
+  text-decoration-line: underline;
+  text-decoration-color: darkorchid;
+  font-size: 48px;
+  margin: 10px 18px 10px 0px;
+  text-align: center;
+}
+
+#about-me {
+  font-size: 24px;
+  text-align: center;
+}
+
+
+
 
 
 *
