@@ -176,7 +176,32 @@ footer {
   text-align: center;
 }
 
-
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+  .fourth {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 600px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+  .fourth {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 996px) {
+  .topnav a {
+    float:none;
+    width: 100%;
+  }
+}
 
 
 *
