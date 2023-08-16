@@ -136,6 +136,43 @@ button {
   border-radius: 5px;
   box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0px 19px 10px 0 rgba(0,0,0,0.19);
 }
+.random-bologna { 
+  overflow: hidden;
+}
+
+.random-bologna a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  transition-duration: .5s;
+} 
+
+.random-bologna a:hover {
+  background-color: #29315e;
+  color: #F1FAEE;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0px 19px 10px 0 rgba(0,0,0,0.19);
+}
+
+.more-random { 
+  overflow: hidden;
+}
+
+.more-random a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  transition-duration: .5s;
+} 
+
+.more-random a:hover {
+  background-color: #29315e;
+  color: #F1FAEE;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0px 19px 10px 0 rgba(0,0,0,0.19);
+}
 
 h2 {
   text-decoration-line: underline;
